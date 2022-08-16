@@ -1,0 +1,97 @@
+.conteiner {
+    display: flex;
+    margin:20px;
+    width: 1500px;
+    padding: 20px;
+
+}
+
+h2 {
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.pokebola1_close {
+    background-image: url('Pokeball.png');
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-size: 100px;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+}
+
+.pokebola1_open {
+    background-image: url('Pikachu.png');
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-size: 100px;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+}
+
+.pokebola2_close {
+    background-image: url('Pokeball.png');
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-size: 100px;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+}
+
+.pokebola2_open {
+    background-image: url('Charmander.png');
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-size: 100px;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+}
+
+.pokebola3_close {
+    background-image: url('Pokeball.png');
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-size: 100px;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+}
+
+.pokebola3_open {
+    background-image: url('Squirtle.png');
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-size: 100px;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+}
+
+.pokebola4_close {
+    background-image: url('Pokeball.png');;
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-size: 100px;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+}
+
+.pokebola4_open {
+    background-image: url('Bulbasaur.png');;
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-size: 100px;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+}
+
+.card {
+    align-content: center;
+    align-self: center;
+    justify-content: center;
+}
